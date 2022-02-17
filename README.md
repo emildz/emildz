@@ -2,4 +2,3 @@
 
 - Currently studying at Boca Code 
 
-![Learning how to code](http://reactjs.org) 
